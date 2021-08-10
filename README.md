@@ -1,7 +1,7 @@
 # TABZMGM-GRepository
 A place to see and access weapons, items and projectiles created using the TABZMGM json system. 
 
-## Adding your creatin to the repository
+## Adding your creation to the repository
 Fork the repo, add your creations to the ones in the folders, push the changes and open a PR. The easiest way is to upload a folder with the files inside github.com, just press Add file -> Upload Files, drag the folder and create a commit with them. Remember that anyone will be able to use any of the files (meshes, textures, audio, ...), so be sure that they are yours or that you have permission to distribute them.
 
 ## Creating your own *thing*
