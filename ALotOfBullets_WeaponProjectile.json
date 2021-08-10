@@ -1,0 +1,12 @@
+{
+	"Name":"ALotOfBullets",
+	"ProjectilyTypeToBeBasedOn":"Bullet_SquareBrawl",
+	"Damage":10.0,
+	"Force":100.0,
+	"Fall":1.0,
+	"InitialFowardsForce":25.0,
+	"InitialUpwardsForce":0.5,
+	"BulletLifeTime":15.0,
+	"RayLenght":2.0,
+	"Spread":20
+}
