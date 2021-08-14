@@ -1,0 +1,13 @@
+{
+	"DisplayName":"real rifle",
+	"FavourText":"Realistic Bangs Bangs Bangs!",
+	"IconFileName":"realRifleIcon.png",
+	"AmmoType":0,
+	"ItemMeshFileName":"Rifle1.obj",
+	"MeshScale":{"x":0.17,"y":0.17,"z":0.22},
+	"ShaderName":"Standard",
+	"ColorRBG":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},
+	"TextureOffset":{"x":0.0,"y":0.0},
+	"TextureScale":{"x":1.0,"y":1.0},
+	"BulletsInMagazine":25
+}
